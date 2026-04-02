@@ -15,7 +15,7 @@
 
 <div align="center">
 
-**A general-purpose agent foundation for Autonomous Scientific Research**
+**MagiClaw: Orchestrating Agentic Science at Scale via Feishu/Lark**
 
 *Making scientific agent development simpler, modular, and scalable—accelerating AI for Science adoption.*
 
