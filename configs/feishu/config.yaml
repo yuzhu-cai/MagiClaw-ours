@@ -45,12 +45,12 @@ feishu:
   container_pool:
     enabled: true
     image: "evomaster/base:bohrium"
-    initial_size: 20
+    initial_size: 3
     max_size: 100
     memory_limit: "8g"
     cpu_limit: 4.0
     network_mode: "host"
-    container_name_prefix: "evopool"
+    container_name_prefix: "evopool_bzh"
 
   # 定时任务调度器配置
   scheduler:
